@@ -1,5 +1,5 @@
 {
-    "name": "Chrome Home DM",
+    "name": "Web Home",
     "description": "Change default new tab",
     "version": "1.0",
     "chrome_url_overrides": {

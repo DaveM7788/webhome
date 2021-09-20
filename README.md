@@ -1,6 +1,6 @@
 # Web Home
 
-This repo is my custom Chrome home page. It also is configured to display whenever opening a new tab
+This repo is my custom Chrome home / new tab page
 
 # Set Up
 
