@@ -1,0 +1,9 @@
+{
+    "name": "Chrome Home DM",
+    "description": "Change default new tab",
+    "version": "1.0",
+    "chrome_url_overrides": {
+        "newtab": "newtabfix.html"
+    },
+    "manifest_version": 3
+}
